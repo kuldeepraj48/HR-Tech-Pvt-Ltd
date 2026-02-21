@@ -4,7 +4,7 @@ A Laravel-based URL shortener application with multi-company support, role-based
 
 # Auther
 
-Kuldeep Raj Full Stack Team Lead.
+Kuldeep Raj Full Stack Developer Team Lead.
 
 ## Summary
 
