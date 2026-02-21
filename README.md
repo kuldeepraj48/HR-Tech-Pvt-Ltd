@@ -2,6 +2,10 @@
 
 A Laravel-based URL shortener application with multi-company support, role-based access control, and invitation system.
 
+# Auther
+
+Kuldeep Raj Full Stack Team Lead.
+
 ## Summary
 
 You are implementing a service which will allow your users to generate short URLs.
@@ -246,3 +250,6 @@ php artisan serve
 
 ### Public database for testing
 - `/public/shortener.sql` - sql download for testing
+
+### Changes Required then let me know
+-  kuldeepraj48
