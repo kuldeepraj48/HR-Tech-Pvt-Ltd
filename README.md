@@ -247,6 +247,64 @@ php artisan serve
 - `GET /clients` - List clients (SuperAdmin only)
 - `GET /team-members` - List team members (Admin only)
 - `POST /logout` - Logout
+- 
+### Details and Repo
+
+Login:
+
+<img width="1792" height="544" alt="image" src="https://github.com/user-attachments/assets/a22ad7f6-8c74-41d3-9f2e-b6ba429cfa35" />
+
+### Super Admin
+
+Super Admin After Login:
+
+<img width="1882" height="635" alt="image" src="https://github.com/user-attachments/assets/0eddf487-102a-49a6-914f-861ccaf3a514" />
+
+Invite new client by Supper Admin:
+
+<img width="1875" height="665" alt="image" src="https://github.com/user-attachments/assets/2a4f537a-bd90-4a20-b3ed-40f2cdb8a8e5" />
+
+Short Urls Node able to access by Super Admin.
+
+<img width="1458" height="632" alt="image" src="https://github.com/user-attachments/assets/868c1a3e-2fde-42fa-8a46-db3495cb3b1c" />
+
+### Admin
+
+Admin Login:
+
+<img width="1809" height="553" alt="image" src="https://github.com/user-attachments/assets/97b83370-4919-4743-832c-613c150b7585" />
+
+Admin Deshboard:
+
+<img width="1899" height="577" alt="image" src="https://github.com/user-attachments/assets/af0afc7e-56a3-4766-b050-fb26bbd69dd6" />
+
+Admin View Team Member :
+
+<img width="1887" height="649" alt="image" src="https://github.com/user-attachments/assets/eec19e77-52b4-4f1e-be11-d3baa175a26f" />
+
+Admin Invite new team Member :
+
+<img width="1895" height="883" alt="image" src="https://github.com/user-attachments/assets/a6b90ce1-9b34-4317-9b08-7026d81d0709" />
+
+Admin Short Urls view :
+
+<img width="1910" height="644" alt="image" src="https://github.com/user-attachments/assets/2bc871df-5626-4e46-80f6-ac66a1792c6e" />
+
+### Client
+
+Client Login:
+
+<img width="1881" height="660" alt="image" src="https://github.com/user-attachments/assets/890dad9b-ced6-4381-bbad-4be9768422d5" />
+
+Generate Short Url and Download:
+
+<img width="1854" height="614" alt="image" src="https://github.com/user-attachments/assets/aed7b420-74dd-4375-bbdc-0dfb965cd6e7" />
+
+Generate Urls :
+
+<img width="1906" height="617" alt="image" src="https://github.com/user-attachments/assets/222378f0-6e6c-4afa-a151-4098606fe926" />
+
+
 
 ### Public database for testing
 - `/public/shortener.sql` - sql download for testing
